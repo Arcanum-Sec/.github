@@ -1,7 +1,5 @@
 # Arcanum Information Security
 
-![Arcanum Logo](https://arcanum-sec.com/logo.png)
-
 Welcome to the **Arcanum Information Security** GitHub organization! We specialize in cutting-edge **offensive security, penetration testing, and AI security research**. Our goal is to share knowledge, develop powerful tools, and foster a community of ethical hackers.
 
 ## 🔥 About Arcanum
