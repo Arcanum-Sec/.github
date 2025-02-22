@@ -40,8 +40,6 @@ Most of our projects are released under the **MIT License**, unless stated other
 
 ## 🌐 Connect With Us
 - 🌍 Website: [Arcanum Information Security](https://arcanum-sec.com)
-- 🐦 Twitter/X: [@jasonhaddix](https://twitter.com/jasonhaddix)
-- 📺 YouTube: [Arcanum Security](https://www.youtube.com/@ArcanumSecurity)
-- 🎙️ Podcast: *Coming Soon*
+- 🐦 Twitter/X: [@jhaddix](https://x.com/jhaddix)
 - ✉️ Contact: [info@arcanum-sec.com](mailto:info@arcanum-sec.com)
 
